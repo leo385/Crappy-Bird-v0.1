@@ -1,4 +1,4 @@
-# Crappy-Bird-v0.1
+# Crappy-Bird-v0.1 SYS: LINUX
 
 *I'm sure you played this game in childhood, but on your own Phone 📲 :)
 
