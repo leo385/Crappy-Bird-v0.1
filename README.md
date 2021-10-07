@@ -1,7 +1,5 @@
 # Crappy-Bird-v0.1
 
-System Requirments: Linux x86_64
-
 *I'm sure you played this game in childhood, but on your own Phone 📲 :)
 
 *Now you don't have to use your phone, enough to use your own **PC**.
